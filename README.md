@@ -44,7 +44,7 @@ At Emulation Software Technologies, we believe in **hands-on learning** and **re
 - **Email**: info@emulationsofttech.com
 - **Phone**: +91 94623-95967
 - **LinkedIn**: [Emulation Software Technologies LinkedIn](https://www.linkedin.com/company/emulation-software-technologies-private-limited/)
-- **Instagram**: [emulation_india]([https://twitter.com/EmulationSoftTech](https://www.instagram.com/emulation_india?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==))
+- **Instagram**: [emulation_india](https://www.instagram.com/emulation_india?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
 
 ## 🌟 Join Us Today!
