@@ -51,7 +51,4 @@ At Emulation Software Technologies, we believe in **hands-on learning** and **re
 
 Whether you're looking to change careers, enhance your skills, or pursue a passion in technology, **Emulation Software Technologies** is the place to be. **Start learning today** and make your future brighter!
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/emulationsofttech?style=social" alt="Follow Emulation Software Technologies on GitHub" />
-</p>
 
